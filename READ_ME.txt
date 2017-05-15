@@ -1,0 +1,3 @@
+The project needs the C++11 syntax in order to run properly. If you are using Eclipse, make sure to add -static to the linker. On Windows, you need to add "wsock32" under Properties -> C/C++ Build -> Settings -> MinGW C++ Linker -> Libraries.
+The contents of the folder Resources must be put in the project folder.
+The executable in the Debug/Release folder must be run in the command window in order to see the user interface in the right format.
